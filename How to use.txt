@@ -1,0 +1,5 @@
+1. Download and compress the all content in this repository with "anupa.lk_wpvivid-667621f764114_2024-06-22-00-59_backup_all.zip" this name
+2. Then you can import this project to your WordPress website using wpvivid plugin easily
+
+Thank you!
+Anupa Prabhasara
